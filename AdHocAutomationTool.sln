@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AdHocAutomationTool", "AdHocAutomationTool\AdHocAutomationTool.vbproj", "{21CE037E-A69D-45FD-A310-5E430CAADE87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F8C16DBA-6A15-44A2-93C2-83CCFE8C0232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CE037E-A69D-45FD-A310-5E430CAADE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CE037E-A69D-45FD-A310-5E430CAADE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CE037E-A69D-45FD-A310-5E430CAADE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CE037E-A69D-45FD-A310-5E430CAADE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E356A082-469F-4D4D-9FD9-A6DEBC1A2002}
+	EndGlobalSection
+EndGlobal
